@@ -1,5 +1,11 @@
 module.exports = {
   sites: [
+     {
+        "title": "Private Agenda",
+        "url": "https://private-agenda.com/",
+        "description": "Balearic pop duo, Private Agenda",
+        "img": "Screenshot-private-agenda.com-2018-10-17.png"
+    },
     {
         "title": "@mrmrs",
         "url": "https://mrmrs.cc/",
